@@ -74,8 +74,6 @@ The Excel dashboard provides an executive overview of business performance throu
 * Sales contribution analysis
 * Interactive slicers and filters
 
-> **Dashboard screenshots will be added here**
-
 ---
 
 # Business Questions Answered
